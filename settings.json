@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TropadaKatcha.aternos.me:24000",
+    "ip": "TropadaKatcha.aternos.me",
     "port": 24000,
     "version": "",
     "try-creative": false
